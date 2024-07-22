@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411249604704",
+    "project_id": "adstemp-fbdb3",
+    "storage_bucket": "adstemp-fbdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411249604704:android:91c8bb4a5b506f9e9a2b05",
+        "android_client_info": {
+          "package_name": "com.nk.adstemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2c31dgqZvrKR5vhKvK9knA6PEtEd9gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
